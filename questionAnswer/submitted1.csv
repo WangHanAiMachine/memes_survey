@@ -1,1 +1,2 @@
 modelId,contextId,memeId,annotationId,startTime,end_time,hilarity_text,support_text,similar_meme,hateful_meme,hilarity_meme,support_meme,persuasiveness
+1,1,11,1,2023-09-05 20:27:06,2023-09-05 20:27:23,1,Support,No,Yes,1,Support,1

@@ -1,5 +1,6 @@
 import sqlite3
 import pandas as pd
+from saveData import cur_stage
 
 # Model
 # 1 - ChatGPT
@@ -38,7 +39,6 @@ import pandas as pd
 
 # python3 save_db.py
 
-cur_stage = 1 # 1 ~ 5
 stages_annotation = [0, 40, 80, 120, 160, 200]
 if(cur_stage == 1):
     total_annotators = 12

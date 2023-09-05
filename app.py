@@ -4,7 +4,6 @@ import sqlite3
 import time, datetime
 from datetime import timedelta
 from utils import sampleQuestion, get_db_connection, text_retriever, meme_retriever, submitQuestion, closeSurvey, get_unannotated_memes
-from flask_ngrok import run_with_ngrok
 
 
 # Flask==2.2.2
@@ -174,6 +173,7 @@ def secondPage():
 
             if(int(modelId) == 4):
                 if( similar_meme != None and hateful_meme != None and hilarity_meme != None ):
+                    print("error1")
                     submitQuestion(session["userId"], modelId, contextId, memeId, annotationId, session["hilarity_text"], None, similar_meme,\
                     hateful_meme, hilarity_meme, None, None, startTime)
                     userId = session["userId"]
@@ -185,6 +185,7 @@ def secondPage():
                     return redirect(url_for('secondPage'))
             else:
                 if(similar_meme != None and hateful_meme != None and hilarity_meme != None and support_meme != None and persuasiveness != None ):
+                    print("error1")
                     submitQuestion(session["userId"], modelId, contextId, memeId, annotationId, session["hilarity_text"], session["support_text"], similar_meme,\
                     hateful_meme, hilarity_meme, support_meme, persuasiveness, startTime)
                     userId = session["userId"]
@@ -239,5 +240,5 @@ with app.app_context():
     scheduler.start()
 
 if __name__ == "__main__":
-    # app.run(host="0.0.0.0", port=8000, debug=True)
-    app.run()
+    app.run(host="0.0.0.0", port=8000, debug=True)
+    # app.run(debug=True)

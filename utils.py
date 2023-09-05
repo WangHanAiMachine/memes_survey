@@ -10,8 +10,6 @@ def get_db_connection():
     conn.row_factory = sqlite3.Row
     return conn
 
-
-
 def sampleQuestion(userId):
     conn = get_db_connection()
     questionsStatus = conn.execute('SELECT * FROM questionsStatus WHERE userId = ?', (userId,)).fetchall()
@@ -44,6 +42,9 @@ def sampleQuestion(userId):
 def get_unannotated_memes(userId):
     conn = get_db_connection()
     questionsStatus = conn.execute('SELECT * FROM questionsStatus WHERE userId = ?', (userId,)).fetchall()
+    temp = conn.execute('SELECT * FROM submitted').fetchall()
+    for record in temp:
+        print(record["memeId"])
     total = 0
     un_annotated = 0
     for record in questionsStatus:
