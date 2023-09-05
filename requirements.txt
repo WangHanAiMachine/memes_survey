@@ -1,7 +1,5 @@
 absl-py==1.4.0
 altair==4.2.2
-anaconda-client==1.7.2
-anaconda-navigator==2.4.0
 antlr4-python3-runtime==4.9.3
 appdirs==1.4.4
 applaunchservices==0.2.1
