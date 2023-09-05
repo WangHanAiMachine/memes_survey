@@ -1,0 +1,79 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<form method="Post">
+    <div class="content">
+        <div  align="right">
+            <div id="unannotated_memes">{{unannotated_memes}} remain unannotated.</div>
+        </div>
+
+        {% for message in get_flashed_messages() %}
+        <div class="question ml-sm-5 pl-sm-5 pt-2">
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                {{ message }}
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        </div>
+        {% endfor %}
+        <!-- Tweet -->
+        <div class="pl-md-5 pr-md-5 header" id="myHeader"><div><b>Text:</b> {{text}}</div></div>
+        <br />
+        <div class="question ml-sm-5 pl-sm-5 pt-2">
+            <div class="py-2 h5">Please rate the <b>Hilarity</b> Score of the text.
+                <br><span style="font-size:0.9em">The Hilarity Score measures the level of humor or amusement in the text.</span>
+            </div>
+            <input type="radio" id="hilarity_text_1" name="hilarity_text" value="1">
+            <label for="hilarity_text_1">1 - Not Humorous</label><br>
+            <input type="radio" id="hilarity_text_2" name="hilarity_text" value="2">
+            <label for="hilarity_text_2">2 - Slightly Humorous</label><br>
+            <input type="radio" id="hilarity_text_3" name="hilarity_text" value="3">
+            <label for="hilarity_text_3">3 - Somewhat Humorous</label><br>
+            <input type="radio" id="hilarity_text_4" name="hilarity_text" value="4">
+            <label for="hilarity_text_4">4 - Moderately Humorous</label><br>
+            <input type="radio" id="hilarity_text_5" name="hilarity_text" value="5">
+            <label for="hilarity_text_5">5 - Very Humorous</label><br>
+        </div>
+        {% if modelId|int != 4 %}
+        <div class="question ml-sm-5 pl-sm-5 pt-2">
+            <div class="py-2 h5">Does this text <b>support or deny</b> climate change?
+            </div>
+            <input type="radio" id="support_text_Support" name="support_text" value="Support">
+            <label for="support_text_Support">Support</label><br>
+            <input type="radio" id="support_text_Deny" name="support_text" value="Deny">
+            <label for="support_text_Deny">Deny</label><br>
+            <input type="radio" id="support_text_NA" name="support_text" value="NA">
+            <label for="support_text_NA">NA</label><br>
+        </div>
+        {% endif %}
+        <script>
+            var countDownDate = '{{startTime}}';
+            countDownDate = (parseInt(countDownDate) + 30 * 60) * 1000 // place
+
+            var now = new Date().getTime();
+            var distance = countDownDate - now;
+
+            setTimeout(() => {
+                window.location.replace("{{url_for('timeOutPage' )}}");
+            }, Math.max(distance, 0))
+
+            var support = '{{support_text}}';
+            if(support != None){
+                radiobtn = document.getElementById("support_text" + support);
+                radiobtn.checked = true;
+            }
+            var hilarity_text = '{{hilarity_text}}';
+            if(hilarity_text != None){
+                radiobtn = document.getElementById("hilarity_text" + hilarity_text);
+                radiobtn.checked = true;
+            }
+        </script>
+        <div class="d-flex align-items-center pt-3">
+            <div class="ml-auto mr-sm-5">
+                <input type="submit" value="Next" class="btn btn-danger btn-sm">
+            </div>
+        </div>
+</form>
+</div>
+{% endblock %}

@@ -1,0 +1,144 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<form method="Post">
+    <div class="content">
+        <div  align="right">
+            <div id="unannotated_memes">{{unannotated_memes}} remain unannotated.</div>
+        </div>
+
+        {% for message in get_flashed_messages() %}
+        <div class="question ml-sm-5 pl-sm-5 pt-2">
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                {{ message }}
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        </div>
+        {% endfor %}
+        <!-- Tweet -->
+        <div class="pl-md-5 pr-md-5 header" id="myHeader">
+            <div class="image-container">
+              <img src="{{meme_url}}" alt="Mountain" runat="server">
+            </div>
+          </div>
+        <br />
+
+        <div class="question ml-sm-5 pl-sm-5 pt-2">
+            <div class="py-2 h5">Is this meme similar to the memes you typically encounter online?
+            </div>
+            <input type="radio" id="similar_meme_Yes" name="similar_meme" value="Yes">
+            <label for="similar_meme_Yes">Yes</label><br>
+            <input type="radio" id="similar_meme_No" name="similar_meme" value="No">
+            <label for="similar_meme_No">No</label><br>
+        </div>
+
+        <div class="question ml-sm-5 pl-sm-5 pt-2">
+            <div class="py-2 h5">Is this meme Hateful? 
+                <br><span style="font-size:0.9em">A Hateful meme “attacks a person or group on the basis of attributes such as race, religion, ethnic origin, national origin, gender, disability, sexual orientation, or other identity factors.”</span>
+            </div>
+            <input type="radio" id="hateful_meme_Yes" name="hateful_meme" value="Yes">
+            <label for="hateful_meme_Yes">Yes</label><br>
+            <input type="radio" id="hateful_meme_No" name="hateful_meme" value="No">
+            <label for="hateful_meme_No">No</label><br>
+        </div>
+
+        <div class="question ml-sm-5 pl-sm-5 pt-2">
+            <div class="py-2 h5">Please rate the <b>Hilarity</b> Score of the meme.
+                <br><span style="font-size:0.9em">The Hilarity Score measures the level of humor or amusement in the meme.</span>
+            </div>
+            <input type="radio" id="hilarity_meme_1" name="hilarity_meme" value="1">
+            <label for="hilarity_meme_1">1 - Not Humorous</label><br>
+            <input type="radio" id="hilarity_meme_2" name="hilarity_meme" value="2">
+            <label for="hilarity_meme_2">2 - Slightly Humorous</label><br>
+            <input type="radio" id="hilarity_meme_3" name="hilarity_meme" value="3">
+            <label for="hilarity_meme_3">3 - Somewhat Humorous</label><br>
+            <input type="radio" id="hilarity_meme_4" name="hilarity_meme" value="4">
+            <label for="hilarity_meme_4">4 - Moderately Humorous</label><br>
+            <input type="radio" id="hilarity_meme_5" name="hilarity_meme" value="5">
+            <label for="hilarity_meme_5">5 - Very Humorous</label><br>
+        </div>
+        {% if modelId|int != 4 %}
+        <div class="question ml-sm-5 pl-sm-5 pt-2">
+            <div class="py-2 h5">Does this meme <b>support or deny</b> climate change?
+            </div>
+            <input type="radio" id="support_meme_Support" name="support_meme" value="Support">
+            <label for="support_meme_Support">Support</label><br>
+            <input type="radio" id="support_meme_Deny" name="support_meme" value="Deny">
+            <label for="support_meme_Deny">Deny</label><br>
+            <input type="radio" id="support_meme_NA" name="support_meme" value="NA">
+            <label for="support_meme_NA">NA</label><br>
+        </div>
+        {% endif %}
+        {% if modelId|int != 4 %}
+        <div class="question ml-sm-5 pl-sm-5 pt-2">
+            <div class="py-2 h5">Please rate the Persuasiveness of the meme.
+            <br><span style="font-size:0.9em">The Persuasiveness measures the effectiveness of the meme convincing someone to adopt a particular viewpoint.</span>
+            </div>
+            <input type="radio" id="persuasiveness_1" name="persuasiveness" value="1">
+            <label for="persuasiveness_1">1 - Not Persuasive</label><br>
+            <input type="radio" id="persuasiveness_2" name="persuasiveness" value="2">
+            <label for="persuasiveness_2">2 - Slightly Persuasive</label><br>
+            <input type="radio" id="persuasiveness_3" name="persuasiveness" value="3">
+            <label for="persuasiveness_3">3 - Somewhat Persuasive            </label><br>
+            <input type="radio" id="persuasiveness_4" name="persuasiveness" value="4">
+            <label for="persuasiveness_4">4 - Moderately Persuasive</label><br>
+            <input type="radio" id="persuasiveness_5" name="persuasiveness" value="5">
+            <label for="persuasiveness_5">5 - Very Persuasive</label><br>
+        </div>
+        {% endif %}
+        <script>
+            // const firebaseConfig = {
+            // apiKey: "AIzaSyCz07Q_Wc5hlDmEDxxC-MiZUCSgM003OEk",
+            // authDomain: "aaaimemegeneration.firebaseapp.com",
+            // projectId: "aaaimemegeneration",
+            // storageBucket: "aaaimemegeneration.appspot.com",
+            // messagingSenderId: "197178294982",
+            // appId: "1:197178294982:web:abe071954a28601824cdc7",
+            // measurementId: "G-GQM6CDKBEF"
+            // };
+            var countDownDate = '{{startTime}}';
+            countDownDate = (parseInt(countDownDate) + 30 * 60) * 1000 // place
+
+            var now = new Date().getTime();
+            var distance = countDownDate - now;
+
+            setTimeout(() => {
+                window.location.replace("{{url_for('timeOutPage' )}}");
+            }, Math.max(distance, 0))
+
+            var similar = '{{similar_meme}}';
+            if(similar != None){
+                radiobtn = document.getElementById("similar_meme" + support);
+                radiobtn.checked = true;
+            }
+            var hateful = '{{hateful_meme}}';
+            if(hateful != None){
+                radiobtn = document.getElementById("hateful_meme" + support);
+                radiobtn.checked = true;
+            }
+            var hilarity_meme = '{{hilarity_meme}}';
+            if(hilarity_meme != None){
+                radiobtn = document.getElementById("hilarity_meme" + hilarity_meme);
+                radiobtn.checked = true;
+            }
+            var support = '{{support_meme}}';
+            if(support != None){
+                radiobtn = document.getElementById("support_meme_" + support);
+                radiobtn.checked = true;
+            }
+            var persuasiveness = '{{persuasiveness}}';
+            if(persuasiveness != None){
+                radiobtn = document.getElementById("persuasiveness_" + persuasiveness);
+                radiobtn.checked = true;
+            }
+        </script>
+        <div class="d-flex align-items-center pt-3">
+            <div class="ml-auto mr-sm-5">
+                <input type="submit" value="Next" class="btn btn-danger btn-sm">
+            </div>
+        </div>
+</form>
+</div>
+{% endblock %}

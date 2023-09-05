@@ -1,0 +1,1140 @@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 781-680-116
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 781-680-116
+10.19.53.4 - - [14/Aug/2023 15:39:14] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [14/Aug/2023 15:39:22] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [14/Aug/2023 15:39:27] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [14/Aug/2023 15:39:29] "GET / HTTP/1.1" 200 -
+10.19.249.7 - - [14/Aug/2023 15:39:39] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [14/Aug/2023 15:42:39] "GET / HTTP/1.1" 200 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 781-680-116
+10.19.53.4 - - [14/Aug/2023 15:44:04] "GET / HTTP/1.1" 200 -
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 781-680-116
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 781-680-116
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 14:49:07] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 14:49:14] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 14:49:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.19.53.4 - - [15/Aug/2023 14:49:26] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 14:49:26] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 14:49:55] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 14:49:55] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 14:49:57] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 14:49:57] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 14:50:21] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 14:50:21] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 14:51:04] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 14:51:04] "GET / HTTP/1.1" 200 -
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 14:52:16] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 14:52:18] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 14:52:18] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 14:54:18] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 14:54:18] "[35m[1mGET /questionPage HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2548, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 149, in questionPage
+    tweet, explanation, explanation1, explanation2 = loadQuestion(int(tweetId), int(strategyId))
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 313, in loadQuestion
+    tweet = conn.execute('SELECT tweet FROM questionsBank WHERE tweetId = ?',
+IndexError: list index out of range
+10.19.53.4 - - [15/Aug/2023 14:54:18] "GET /questionPage?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 14:54:18] "GET /questionPage?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 14:54:18] "GET /questionPage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 14:54:18] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 14:54:26] "[35m[1mGET /questionPage HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2548, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 149, in questionPage
+    tweet, explanation, explanation1, explanation2 = loadQuestion(int(tweetId), int(strategyId))
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 313, in loadQuestion
+    tweet = conn.execute('SELECT tweet FROM questionsBank WHERE tweetId = ?',
+IndexError: list index out of range
+10.19.53.4 - - [15/Aug/2023 14:54:26] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 14:54:26] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 14:54:26] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 14:54:26] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 14:54:28] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 14:54:32] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 14:54:32] "[35m[1mGET /questionPage HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2548, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 149, in questionPage
+    tweet, explanation, explanation1, explanation2 = loadQuestion(int(tweetId), int(strategyId))
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 313, in loadQuestion
+    tweet = conn.execute('SELECT tweet FROM questionsBank WHERE tweetId = ?',
+IndexError: list index out of range
+10.19.53.4 - - [15/Aug/2023 14:54:32] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 14:54:32] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 14:54:32] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 14:55:47] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 14:55:51] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 14:55:51] "[35m[1mGET /questionPage HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2548, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 151, in questionPage
+    tweet, explanation, explanation1, explanation2 = loadQuestion(int(tweetId), int(strategyId))
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 315, in loadQuestion
+    tweet = conn.execute('SELECT tweet FROM questionsBank WHERE tweetId = ?',
+IndexError: list index out of range
+10.19.53.4 - - [15/Aug/2023 14:55:51] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 14:55:51] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 14:55:51] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 15:00:23] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 15:00:24] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 15:00:26] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 15:00:26] "[35m[1mGET /questionPage HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2548, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 151, in questionPage
+    tweet, explanation, explanation1, explanation2 = loadQuestion(int(tweetId), int(strategyId))
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 315, in loadQuestion
+    tweet = conn.execute('SELECT tweet FROM questionsBank WHERE tweetId = ?',
+IndexError: list index out of range
+10.19.53.4 - - [15/Aug/2023 15:00:26] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 15:00:26] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 15:00:26] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+1
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 15:01:04] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 15:01:06] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 15:01:06] "[35m[1mGET /questionPage HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2548, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 152, in questionPage
+    tweet, explanation, explanation1, explanation2 = loadQuestion(int(tweetId), int(strategyId))
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 316, in loadQuestion
+    tweet = conn.execute('SELECT tweet FROM questionsBank WHERE tweetId = ?',
+IndexError: list index out of range
+10.19.53.4 - - [15/Aug/2023 15:01:06] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 15:01:06] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 15:01:06] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+Error
+1
+Support
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 15:01:47] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 15:01:50] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 15:01:50] "[35m[1mGET /questionPage HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2548, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 152, in questionPage
+    tweet, explanation, explanation1, explanation2 = loadQuestion(int(tweetId), int(strategyId))
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 316, in loadQuestion
+    tweet = conn.execute('SELECT tweet FROM questionsBank WHERE tweetId = ?',
+IndexError: list index out of range
+10.19.53.4 - - [15/Aug/2023 15:01:50] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 15:01:50] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 15:01:50] "[36mGET /questionPage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+Error
+2
+Support
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 74
+    meme_path = 
+               ^
+SyntaxError: invalid syntax
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:10:09] "GET / HTTP/1.1" 200 -
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:11:05 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:11:05 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+10.19.53.4 - - [15/Aug/2023 16:10:53] "[33mPOST /action_page.php HTTP/1.1[0m" 404 -
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:11:35 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:11:35 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:12:05 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:12:05 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+10.19.53.4 - - [15/Aug/2023 16:11:36] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:11:39] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2548, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 37, in loginPage
+    if(user_name == None or int(password) != "sutd_meme_project" ):
+ValueError: invalid literal for int() with base 10: 'f'
+10.19.53.4 - - [15/Aug/2023 16:11:39] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:11:39] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:11:39] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:11:39] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:11:51] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:11:54] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:11:54] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:11:58] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:11:58] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:12:04] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:12:04] "GET /firstPage HTTP/1.1" 200 -
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:12:35 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:12:49 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:13:05 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:13:19 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:13:35 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:13:49 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:14:05 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:14:19 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:14:35 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:14:49 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:15:05 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/init_db.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:15:35 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:15:50 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/init_db.py', reloading
+ * Restarting with stat
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:16:05 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/init_db.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:16:35 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:16:39 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:17:05 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:17:09 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:17:35 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:17:39 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/init_db.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/init_db.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:18:05 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/init_db.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:18:35 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/init_db.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:19:05 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:19:07 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:19:35 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:19:37 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:20:05 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:20:07 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/init_db.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+Job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-08-15 16:20:35 +08)" raised an exception
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/apscheduler/executors/base.py", line 125, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "app.py", line 265, in checkTimeOut
+    tweetId = record["tweetId"]
+IndexError: No item with that key
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/init_db.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:31:02] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:31:06] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:31:06] "GET / HTTP/1.1" 200 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:32:49] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:32:58] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:32:58] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:33:32] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2548, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 31, in loginPage
+    userId = user_name_id_dic["user_name"]
+KeyError: 'user_name'
+10.19.53.4 - - [15/Aug/2023 16:33:32] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 16:33:32] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 16:33:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+10.19.53.4 - - [15/Aug/2023 16:33:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:33:56] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:34:01] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:34:01] "GET /firstPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:34:08] "[32mPOST /firstPage HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:34:08] "[35m[1mGET /secondPage HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2548, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 105, in secondPage
+    if(int(modelId) < 0  or int(contextId) < 0 or int(memeId) < 0 or annotationId < 0):
+TypeError: '<' not supported between instances of 'str' and 'int'
+10.19.53.4 - - [15/Aug/2023 16:34:08] "GET /secondPage?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:34:08] "GET /secondPage?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:34:08] "GET /secondPage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:34:08] "[36mGET /secondPage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:34:35] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:34:43] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:34:43] "GET /firstPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:34:45] "[32mPOST /firstPage HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:34:45] "GET /secondPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:34:45] "[33mGET /alt=%22Avatar%22 HTTP/1.1[0m" 404 -
+10.19.53.4 - - [15/Aug/2023 16:34:56] "[32mPOST /secondPage HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:34:56] "[35m[1mGET /thirdPage HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2548, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2528, in wsgi_app
+    response = self.handle_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/wangwensheng/Library/Python/3.8/lib/python/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/Users/wangwensheng/Desktop/plush_surveyMturk/app.py", line 166, in thirdPage
+    if(int(modelId) < 0  or int(contextId) < 0 or int(memeId) < 0 or annotationId < 0):
+TypeError: '<' not supported between instances of 'str' and 'int'
+10.19.53.4 - - [15/Aug/2023 16:34:56] "GET /thirdPage?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:34:56] "GET /thirdPage?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:34:56] "GET /thirdPage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:34:56] "[36mGET /thirdPage?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:36:46] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:36:50] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:36:50] "GET /firstPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:36:52] "[32mPOST /firstPage HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:36:52] "GET /secondPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:36:52] "[33mGET /alt=%22Avatar%22 HTTP/1.1[0m" 404 -
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:37:35] "[32mPOST /secondPage HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:37:35] "GET /secondPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:37:35] "[33mGET /alt=%22Avatar%22 HTTP/1.1[0m" 404 -
+ * Detected change in '/Users/wangwensheng/Desktop/plush_surveyMturk/app.py', reloading
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:39:19] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:39:21] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:39:21] "GET /firstPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:39:25] "[32mPOST /firstPage HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:39:25] "GET /secondPage HTTP/1.1" 200 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:39:47] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:39:49] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:39:49] "GET /firstPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:39:51] "[32mPOST /firstPage HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:39:51] "GET /secondPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:39:51] "[33mGET /alt=%22Mountain%22 HTTP/1.1[0m" 404 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:40:41] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:40:44] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:40:44] "GET /firstPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:40:46] "[32mPOST /firstPage HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:40:46] "GET /secondPage HTTP/1.1" 200 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:41:11] "GET / HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:41:12] "[32mPOST / HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:41:12] "GET /firstPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:41:19] "[32mPOST /firstPage HTTP/1.1[0m" 302 -
+10.19.53.4 - - [15/Aug/2023 16:41:19] "GET /secondPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:41:19] "[33mGET /questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake%20Hotline%20Bling.jpg HTTP/1.1[0m" 404 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:41:38] "GET /secondPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:41:38] "[33mGET /questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake%20Hotline%20Bling.jpg HTTP/1.1[0m" 404 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:43:33] "GET /secondPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:43:33] "[33mGET /questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COT/Drake%20Hotline%20Bling.jpg HTTP/1.1[0m" 404 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:43:46] "GET /secondPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:43:46] "[33mGET /questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COT/Drake%20Hotline%20Bling.jpg HTTP/1.1[0m" 404 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:44:42] "GET /secondPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:44:42] "[33mGET /Users/wangwensheng/Desktop/plush_surveyMturk/questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COT/Domino%20Effect.jpg HTTP/1.1[0m" 404 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:46:03] "GET /secondPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:46:03] "[33mGET /questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COT/10guy.jpg HTTP/1.1[0m" 404 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:46:56] "GET /secondPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:46:56] "[33mGET /questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COT/10guy.jpg HTTP/1.1[0m" 404 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:48:34] "GET /secondPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:48:34] "[33mGET /hello.jpg HTTP/1.1[0m" 404 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:49:51] "GET /secondPage HTTP/1.1" 200 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:53:26] "GET /secondPage HTTP/1.1" 200 -
+10.19.53.4 - - [15/Aug/2023 16:53:26] "[33mGET /hello.jpg HTTP/1.1[0m" 404 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:56:38] "GET /secondPage HTTP/1.1" 200 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 16:56:55] "GET /secondPage HTTP/1.1" 200 -
+questionBank/meme_image_dataset/imgflip_ChatGPT/Causes_COTDrake Hotline Bling.jpg
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.19.53.4:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+10.19.53.4 - - [15/Aug/2023 17:07:45] "GET /secondPage HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "app.py", line 6, in <module>
+    from utils import sampleQuestion, get_db_connection, text_retriever, meme_retriever, submitQuestion, closeSurvey, get_unannotated_memes
+  File "/Users/wangwensheng/Desktop/meme_surveyMturk/utils.py", line 5, in <module>
+    import firebase_admin
+ModuleNotFoundError: No module named 'firebase_admin'
+Traceback (most recent call last):
+  File "app.py", line 6, in <module>
+    from utils import sampleQuestion, get_db_connection, text_retriever, meme_retriever, submitQuestion, closeSurvey, get_unannotated_memes
+  File "/Users/wangwensheng/Desktop/meme_surveyMturk/utils.py", line 5, in <module>
+    import firebase_admin
+ModuleNotFoundError: No module named 'firebase_admin'
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.11:8000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 108-148-423
+192.168.1.11 - - [04/Sep/2023 19:46:05] "GET / HTTP/1.1" 200 -
+192.168.1.11 - - [04/Sep/2023 19:46:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.1.11 - - [04/Sep/2023 19:46:20] "GET / HTTP/1.1" 200 -
+192.168.1.11 - - [04/Sep/2023 19:48:04] "[32mPOST / HTTP/1.1[0m" 302 -
+192.168.1.11 - - [04/Sep/2023 19:48:04] "GET /firstPage HTTP/1.1" 200 -
+192.168.1.11 - - [04/Sep/2023 19:50:39] "GET /firstPage HTTP/1.1" 200 -
+Run time of job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-09-04 19:50:52 +08)" was missed by 0:00:18.560596
+Run time of job "checkTimeOut (trigger: interval[0:00:30], next run at: 2023-09-04 19:50:53 +08)" was missed by 0:00:18.558257
+192.168.1.11 - - [04/Sep/2023 19:51:49] "GET / HTTP/1.1" 200 -
+192.168.1.11 - - [04/Sep/2023 20:07:58] "GET / HTTP/1.1" 200 -
+192.168.1.11 - - [04/Sep/2023 20:07:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.1.11 - - [04/Sep/2023 20:09:14] "[32mPOST / HTTP/1.1[0m" 302 -
+192.168.1.11 - - [04/Sep/2023 20:09:14] "GET /firstPage HTTP/1.1" 200 -
+192.168.1.11 - - [04/Sep/2023 20:15:05] "[32mPOST /firstPage HTTP/1.1[0m" 302 -
+192.168.1.11 - - [04/Sep/2023 20:15:06] "GET /secondPage HTTP/1.1" 200 -
+192.168.1.11 - - [04/Sep/2023 20:15:12] "[32mPOST /secondPage HTTP/1.1[0m" 302 -
+192.168.1.11 - - [04/Sep/2023 20:15:12] "GET /firstPage HTTP/1.1" 200 -
+192.168.1.11 - - [04/Sep/2023 20:17:16] "GET / HTTP/1.1" 200 -
+192.168.1.11 - - [04/Sep/2023 20:17:51] "GET / HTTP/1.1" 200 -
+192.168.1.11 - - [04/Sep/2023 20:18:12] "GET / HTTP/1.1" 200 -
+192.168.1.11 - - [04/Sep/2023 20:19:24] "GET / HTTP/1.1" 200 -
+192.168.1.22 - - [04/Sep/2023 20:20:51] "GET / HTTP/1.1" 200 -
+192.168.1.22 - - [04/Sep/2023 20:20:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.1.22 - - [04/Sep/2023 20:20:53] code 400, message Bad request version ('**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+192.168.1.22 - - [04/Sep/2023 20:20:53] "[35m[1m  ü&h­ÛØz­\©ÔwvúSz­Ä6[GGÁ-  nñßýý=Ðû:eÄàEÊÒUÝJS;V7¦ò$8  **À+À/À,À0Ì©Ì¨ÀÀ   / 5 ªª     ÿ   [0m" HTTPStatus.BAD_REQUEST -
+192.168.1.22 - - [04/Sep/2023 20:20:53] code 400, message Bad request version ('\x07\x8edÙ¼µhí\x11®\x00"ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+192.168.1.22 - - [04/Sep/2023 20:20:53] "[35m[1m  üx.©×ªFvÜÅÓÏ§4ý70@ÞÏ7§ ß#Ü~·tïaä Lú¡áëÓ/dÙ¼µhí® "ÚÚÀ+À/À,À0Ì©Ì¨ÀÀ   / 5 [0m" HTTPStatus.BAD_REQUEST -
