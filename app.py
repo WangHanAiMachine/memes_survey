@@ -13,6 +13,7 @@ from utils import sampleQuestion, get_db_connection, text_retriever, meme_retrie
 # firebase-admin==6.2.0
 # gunicorn==20.0.4
 # wfastcgi==3.0.0
+# tzlocal==4.2
 
 # To run
 # nohup python3 app.py
