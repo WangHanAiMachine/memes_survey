@@ -5,6 +5,15 @@ import time, datetime
 from datetime import timedelta
 from utils import sampleQuestion, get_db_connection, text_retriever, meme_retriever, submitQuestion, closeSurvey, get_unannotated_memes
 
+
+
+# Flask==2.2.2
+# flask-ngrok==0.0.25
+# pandas==1.5.2
+# firebase-admin==6.2.0
+# gunicorn==20.0.4
+# wfastcgi==3.0.0
+
 # To run
 # nohup python3 app.py
 # To stop
